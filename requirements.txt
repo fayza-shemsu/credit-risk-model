@@ -1,0 +1,19 @@
+# Core ML libraries
+scikit-learn
+pandas
+joblib
+
+# MLflow for experiment tracking
+mlflow
+
+# FastAPI for serving the model
+fastapi
+uvicorn[standard]
+
+# Testing
+pytest
+httpx
+
+# Streamlit UI
+streamlit
+requests

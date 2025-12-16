@@ -1,0 +1,34 @@
+# Ignore files that shouldn't be in the Docker image
+# This keeps the image small and secure
+
+# Virtual environment (we install fresh in the container)
+.venv/
+venv/
+env/
+
+# MLflow tracking data (not needed for serving)
+mlruns/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Git files
+.git/
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
+
+# Test files (not needed in production)
+tests/
+
+# Documentation
+*.md
+ch.md
+
+# Jupyter notebooks
+notebooks/
+*.ipynb
