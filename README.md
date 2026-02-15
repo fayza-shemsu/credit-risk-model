@@ -1,4 +1,9 @@
-# Credit Risk Scoring Model
+# Week 12 Capstone Improvement
+
+This repository is being enhanced as part of the Week 12 Capstone Challenge.  
+The goal is to transform the original Credit Risk Probability Model into a production-grade, finance-ready ML system with improved engineering, testing, and documentation standards.
+
+---
 
 ## Project Overview
 This project implements an end-to-end **credit risk scoring system**.
