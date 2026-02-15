@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Documents/credit-risk-model/mlruns/145986190213059428/b52ae3b0eba34097a1c4c202be9bb328/artifacts
+end_time: 1771187878677
+entry_point_name: ''
+experiment_id: '145986190213059428'
+lifecycle_stage: active
+run_id: b52ae3b0eba34097a1c4c202be9bb328
+run_name: merciful-horse-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771187851197
+status: 3
+tags: []
+user_id: hp
